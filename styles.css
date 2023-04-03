@@ -1,0 +1,126 @@
+body {
+  font-family: 'Prompt', sans-serif;
+  margin: 0px;
+}
+
+form {
+  text-align: center;
+  padding: 25px;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  background-color: #82acff;
+  margin: 0px;
+}
+
+h3 {
+  text-align: center;
+  padding: 20px;
+  background-color: #8f71ff;
+  margin: 0px;
+}
+
+input {
+  padding: 3px;
+  text-align: left;
+  margin: 5px;
+  width: 500px;
+  /* position: relative;
+  left: 30px; */
+}
+
+hr {
+  margin: 0px;
+}
+
+.topTextInput {
+  position: relative;
+  left: 14px;
+}
+
+.topTextLabel {
+  position: relative;
+  left: 11px;
+}
+
+.imgInput {
+  position: relative;
+  right: 5px;
+}
+
+.imgLabel {
+  position: relative;
+  right: 4px;
+}
+
+.button {
+  margin: 20px;
+  padding: 7px;
+  border-radius: 5px;
+  background-color: #ff5d9e;
+  color: black;
+  width: auto;
+}
+
+.button:hover {
+  background-color: #ef79aa;
+  color: white;
+  padding: 10px;
+}
+
+.container {
+  text-align: center;
+}
+
+.meme {
+  width: 400px;
+  height: 514px;
+  border: solid black 2px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px #ff5d9e;
+  display: inline-block;
+  margin: 30px 20px;
+  /* position: relative; */
+}
+
+.topText, .botText {
+  margin: 10px;
+  font-family: 'Anton', sans-serif;
+  /* position: absolute;
+  text-align: center; */
+}
+
+.img {
+  width: 400px;
+  height: 420px;
+}
+
+.removeButton {
+  margin: 7px 25%;
+  text-align: center;
+  padding: 2px;
+  /* background-color: #82acff; */
+  background-color: #afffc5;
+}
+
+.removeButton:hover {
+  /* background-color: #4e81e7; */
+  background-color: #c5f7ff;
+  color: black;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #82acff;
+  position: relative;
+  bottom: 0px;
+  margin-top: 30px;
+}
+
+
+
+
+
